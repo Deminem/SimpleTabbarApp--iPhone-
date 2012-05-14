@@ -1,7 +1,7 @@
 SimpleAppTabBar [iPhone]
 =================
 
-I have been asked many times for the simple Tabbar with Navigation iphone app. So I thought to compile the project and help the open-source community - the general is to create the UITabbarController with UINavigationController programmatically and show on a button click.
+I have been asked many times for the simple Tabbar with Navigation iphone app. So I thought to compile the project and help the open-source community - the general idea is to create the UITabbarController with UINavigationController programmatically and show on a button click.
 
 I hope you find it useful!
 
