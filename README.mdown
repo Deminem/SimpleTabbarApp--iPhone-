@@ -8,4 +8,4 @@ I hope you find it useful!
 License
 =======
 
-Copyright 2011 Deminem
+Copyright 2012 Deminem
